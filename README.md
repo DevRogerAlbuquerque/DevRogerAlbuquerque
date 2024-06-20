@@ -16,7 +16,7 @@ Apaixonado por criar soluções inovadoras e escaláveis. Utilizo o framework Re
 Estou sempre aberto a colaborações e projetos interessantes. Vamos criar algo incrível juntos!
 
 ## 📊 <span style="color:#3498db;">Estatísticas de Desenvolvimento</span>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevRogerAlbuquerque-github&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevRogerAlbuquerque&layout=compact&theme=dark)
 
 
 ---
