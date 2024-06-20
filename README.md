@@ -1,5 +1,5 @@
 ## <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=f39c12&width=435&lines=Ol%C3%A1%2C+eu+sou+o+Roger!+Bem+vindo" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=f39c12&width=435&lines=Ol%C3%A1%2C+eu+sou+o+Roger!+Bem+vindo!" alt="Typing SVG" />
 </div>
 
 Desenvolvedor Full Stack especializado em C# e JavaScript.
@@ -11,6 +11,15 @@ Apaixonado por criar soluções inovadoras e escaláveis. Utilizo o framework Re
 - **Linguagens:** C#, JavaScript
 - **Front-end:** React
 - **Back-end:** ASP.NET
+
+<div style="display: flex; justify-content: center; align-items: center;">
+  <img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=csharp&logoColor=239120" alt="C#" />
+  <img src="https://img.shields.io/badge/ASP.NET-000?style=for-the-badge&logo=dotnet&logoColor=512BD4" alt="ASP.NET" />
+  <img src="https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb&logoColor=47A248" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/SQL_Server-000?style=for-the-badge&logo=microsoft-sql-server&logoColor=CC2927" alt="SQL Server" />
+</div>
 
 ## 🌱 <span style="color:#27ae60;">Em constante aprendizado</span>
 Estou sempre aberto a colaborações e projetos interessantes. Vamos criar algo incrível juntos!
