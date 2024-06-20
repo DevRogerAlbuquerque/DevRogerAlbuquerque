@@ -11,6 +11,7 @@ Apaixonado por criar soluções inovadoras e escaláveis. Utilizo o framework Re
 - **Linguagens:** C#, JavaScript
 - **Front-end:** React
 - **Back-end:** ASP.NET
+- **Banco de dados:** SQL Server, MongoDB
 
 <div style="display: flex; justify-content: center; align-items: center;">
   <img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
