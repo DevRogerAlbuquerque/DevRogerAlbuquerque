@@ -1,5 +1,5 @@
 ## <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=#f39c12&width=435&lines=Ol%C3%A1%2C+eu+sou+o+Roger+Albuquerque!+Seja+bem+vindo" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=#f39c12&width=435&lines=Ol%C3%A1%2C+eu+sou+o+Roger+Albuquerque!" alt="Typing SVG" />
 </div>
 
 Desenvolvedor Full Stack especializado em C# e JavaScript.
