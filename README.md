@@ -15,6 +15,10 @@ Apaixonado por criar soluções inovadoras e escaláveis. Utilizo o framework Re
 ## 🌱 <span style="color:#27ae60;">Em constante aprendizado</span>
 Estou sempre aberto a colaborações e projetos interessantes. Vamos criar algo incrível juntos!
 
+## 📊 <span style="color:#3498db;">Estatísticas de Desenvolvimento</span>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevRogerAlbuquerque-github&layout=compact&theme=dark)
+
+
 ---
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://br.linkedin.com/in/roger-albuquerque-955a11195) [![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:contatorogeroficial@gmail.com)
